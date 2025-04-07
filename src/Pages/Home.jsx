@@ -77,7 +77,7 @@ const Home = () => {
 
       {/* Footer */}
       <footer className="footer">
-        <p className="mb-0">© {new Date().getFullYear()} Movie Finder | Built with ❤️ using React & Bootstrap by PK</p>
+        <p className="mb-0">© {new Date().getFullYear()} Movie Finder | Built with ❤️ using React & Bootstrap</p>
       </footer>
 
     </>
