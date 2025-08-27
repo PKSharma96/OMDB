@@ -44,7 +44,7 @@ const Home = () => {
       {/* Navbar */}
       <nav className="navbar navbar-dark bg-dark">
         <div className="container">
-          <a className="navbar-brand" href="/">🎬 Movie Finder</a>
+          <a className="navbar-brand" href="/">🎬 OMDB</a>
         </div>
       </nav>
 
@@ -77,7 +77,7 @@ const Home = () => {
 
       {/* Footer */}
       <footer className="footer">
-        <p className="mb-0">© {new Date().getFullYear()} Movie Finder | Built with ❤️ using React & Bootstrap</p>
+        <p className="mb-0">© {new Date().getFullYear()} Movie Finder | Built with ❤️ using React & Bootstrap by <a href="https://github.com/PKSharma96/OMDB">PK</a></p>
       </footer>
 
     </>
